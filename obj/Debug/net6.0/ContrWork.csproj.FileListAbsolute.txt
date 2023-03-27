@@ -1,0 +1,15 @@
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\bin\Debug\net6.0\ContrWork.exe
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\bin\Debug\net6.0\ContrWork.deps.json
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\bin\Debug\net6.0\ContrWork.runtimeconfig.json
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\bin\Debug\net6.0\ContrWork.dll
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\bin\Debug\net6.0\ContrWork.pdb
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.csproj.AssemblyReference.cache
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.GeneratedMSBuildEditorConfig.editorconfig
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfoInputs.cache
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfo.cs
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.csproj.CoreCompileInputs.cache
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.dll
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\refint\ContrWork.dll
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.pdb
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ContrWork.genruntimeconfig.cache
+G:\ГБ\Итоговая контрольная работа 1 блок\ContrWork\obj\Debug\net6.0\ref\ContrWork.dll
